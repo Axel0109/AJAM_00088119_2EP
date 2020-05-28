@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="caf66550-7e93-4aab-9e5a-298213a01449" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Properties/Modelos/Direcciones.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Properties/Modelos/Negocios.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Properties/Modelos/Productos.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Properties/Modelos/OrdenesA.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Properties/Modelos/OrdenesU.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Properties/Controladores/DireccionesC.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Properties/Controladores/NegociosC.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Properties/Controladores/OrdenesA_C.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Properties/Controladores/ProductosC.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Properties/Controladores/UsuarioC.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Properties/Modelos/Usuario.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/33/8419df87/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Properties/Controladores/BDconexion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6FF151C8-A24F-45E5-B6E3-6BC715719162/d4/8baf801d/Form.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Properties/Vista/frmPassword.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BFEB5FDC-A719-42E1-8134-223465F4F838/fb/edd6b6e8/Image.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Properties/Vista/frmPassword.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Properties/Vista/frmMain.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Properties/Vista/frmMain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BD1B6EA4-F54D-4146-A29C-2A12CD6EC436/bc/0e474a2b/Boolean.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Properties/Vista/FormLogin.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Properties/Vista/FormLogin.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/Properties/Controladores/conexionBD.cs" />
+        <option value="$PROJECT_DIR$/Properties/Vista/Form1.cs" />
+        <option value="$PROJECT_DIR$/Properties/Vista/Form1.Designer.cs" />
+        <option value="$PROJECT_DIR$/Properties/Vista/FormLogin.Designer.cs" />
+        <option value="$PROJECT_DIR$/Properties/Modelos/OrdenesU.cs" />
+        <option value="$PROJECT_DIR$/Properties/Modelos/Direcciones.cs" />
+        <option value="$PROJECT_DIR$/Properties/Modelos/Negocios.cs" />
+        <option value="$PROJECT_DIR$/Properties/Modelos/Productos.cs" />
+        <option value="$PROJECT_DIR$/Properties/Modelos/OrdenesA.cs" />
+        <option value="$PROJECT_DIR$/Properties/Controladores/NegociosC.cs" />
+        <option value="$PROJECT_DIR$/Properties/Controladores/OrdenesA_C.cs" />
+        <option value="$PROJECT_DIR$/Properties/Controladores/ProductosC.cs" />
+        <option value="$PROJECT_DIR$/Properties/Controladores/BDconexion.cs" />
+        <option value="$PROJECT_DIR$/Properties/Modelos/Usuario.cs" />
+        <option value="$PROJECT_DIR$/Properties/Vista/FormLogin.cs" />
+        <option value="$PROJECT_DIR$/Properties/Vista/frmPassword.Designer.cs" />
+        <option value="$PROJECT_DIR$/Properties/Vista/frmPassword.cs" />
+        <option value="$PROJECT_DIR$/Properties/Controladores/UsuarioC.cs" />
+        <option value="$PROJECT_DIR$/Properties/Controladores/DireccionesC.cs" />
+        <option value="$PROJECT_DIR$/Properties/Vista/frmMain.Designer.cs" />
+        <option value="$PROJECT_DIR$/Properties/Vista/frmMain.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cVMqlUPb8tRhJYl7e8pcZEj6qJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Parcial_2" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Parcial_2.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="caf66550-7e93-4aab-9e5a-298213a01449" name="Default Changelist" comment="" />
+      <created>1590609499942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590609499942</updated>
+      <workItem from="1590609501538" duration="33340000" />
+      <workItem from="1590645674974" duration="9821000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="476" height="466" key="DebuggerActiveHint" timestamp="1590647387393">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="476" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1590647387393" />
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom" timestamp="1590684082598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590684082598" />
+    <state width="1237" height="204" key="GridCell.Tab.0.center" timestamp="1590684082598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590684082598" />
+    <state width="1237" height="204" key="GridCell.Tab.0.left" timestamp="1590684082598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590684082598" />
+    <state width="1237" height="204" key="GridCell.Tab.0.right" timestamp="1590684082598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590684082598" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1590684082598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590684082598" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1590684082598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1590684082598" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1590684082598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1590684082598" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1590684082598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1590684082598" />
+    <state width="1237" height="204" key="GridCell.Tab.2.bottom" timestamp="1590684082598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590684082598" />
+    <state width="1237" height="204" key="GridCell.Tab.2.center" timestamp="1590684082598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1590684082598" />
+    <state width="1237" height="204" key="GridCell.Tab.2.left" timestamp="1590684082598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1590684082598" />
+    <state width="1237" height="204" key="GridCell.Tab.2.right" timestamp="1590684082598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1590684082598" />
+    <state width="1237" height="204" key="GridCell.Tab.3.bottom" timestamp="1590684082598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.3.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590684082598" />
+    <state width="1237" height="204" key="GridCell.Tab.3.center" timestamp="1590684082598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.3.center/0.0.1280.680@0.0.1280.680" timestamp="1590684082598" />
+    <state width="1237" height="204" key="GridCell.Tab.3.left" timestamp="1590684082598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.3.left/0.0.1280.680@0.0.1280.680" timestamp="1590684082598" />
+    <state width="1237" height="204" key="GridCell.Tab.3.right" timestamp="1590684082598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.3.right/0.0.1280.680@0.0.1280.680" timestamp="1590684082598" />
+    <state width="1237" height="204" key="GridCell.Tab.4.bottom" timestamp="1590684082598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.4.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590684082598" />
+    <state width="1237" height="204" key="GridCell.Tab.4.center" timestamp="1590684082598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.4.center/0.0.1280.680@0.0.1280.680" timestamp="1590684082598" />
+    <state width="1237" height="204" key="GridCell.Tab.4.left" timestamp="1590684082598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.4.left/0.0.1280.680@0.0.1280.680" timestamp="1590684082598" />
+    <state width="1237" height="204" key="GridCell.Tab.4.right" timestamp="1590684082598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.4.right/0.0.1280.680@0.0.1280.680" timestamp="1590684082598" />
+    <state x="351" y="21" key="RiderGenerateDialog" timestamp="1590639393942">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="351" y="21" key="RiderGenerateDialog/0.0.1280.680@0.0.1280.680" timestamp="1590639393942" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1590644688708">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1590644688708" />
+  </component>
+</project>

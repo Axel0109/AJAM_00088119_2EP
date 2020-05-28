@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Axel Medina\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Axel Medina\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Parcial_2.617602141.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Axel Medina\RiderProjects\Parcial_2" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="Parcial_2.csproj" t="IncludeRecursive" />
+      <e p="Parcial_2.sln" t="IncludeFlat" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Controladores" t="Include">
+          <e p="BDconexion.cs" t="Include" />
+          <e p="DireccionesC.cs" t="Include" />
+          <e p="NegociosC.cs" t="Include" />
+          <e p="OrdenesA_C.cs" t="Include" />
+          <e p="ProductosC.cs" t="Include" />
+          <e p="UsuarioC.cs" t="Include" />
+        </e>
+        <e p="Modelos" t="Include">
+          <e p="Direcciones.cs" t="Include" />
+          <e p="Negocios.cs" t="Include" />
+          <e p="OrdenesA.cs" t="Include" />
+          <e p="Productos.cs" t="Include" />
+          <e p="Usuario.cs" t="Include" />
+        </e>
+        <e p="Recursos" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+        <e p="Vista" t="Include">
+          <e p="FormLogin.cs" t="Include" />
+          <e p="FormLogin.Designer.cs" t="Include" />
+          <e p="FormLogin.resx" t="Include" />
+          <e p="frmMain.cs" t="Include" />
+          <e p="frmMain.Designer.cs" t="Include" />
+          <e p="frmMain.resx" t="Include" />
+          <e p="frmPassword.cs" t="Include" />
+          <e p="frmPassword.Designer.cs" t="Include" />
+          <e p="frmPassword.resx" t="Include" />
+        </e>
+      </e>
+    </e>
+  </component>
+</project>
